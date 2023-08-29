@@ -1,0 +1,468 @@
+{
+        "fsu_no_fsu": "R20724336",
+        "fsu_solicitud_s100": "06797639",
+        "fsu_ubicacion_geografica": {
+            "departamento": {
+                "nombre": "AREQUIPA",
+                "codigo_ubigeo": "04",
+                "provincia": {
+                    "nombre": "AREQUIPA",
+                    "codigo_ubigeo": "01",
+                    "distrito": {
+                        "nombre": "CERRO COLORADO",
+                        "codigo_ubigeo": "04",
+                        "centro_poblado": {
+                            "nombre": "CONO NORTE",
+                            "codigo_ubigeo": "0002",
+                            "categoria": "04",
+                            "nucleo_urbano": {
+                                "nombre": "APIPA",
+                                "categoria_nucleo_urbano": {
+                                    "opcion_numero": 12,
+                                    "opcion_seleccionada": "Asociación de vivienda"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "fsu_ubicacion_censal": {
+                "ubicacion_censal_conglomerado_no": "",
+                "ubicacion_censal_zona_no": "0000",
+                "ubicacion_censal_manzana_no": "0000",
+                "ubicacion_censal_frente_manzana_no": "  ",
+                "ubicacion_censal_vivienda_no": "",
+                "ubicacion_censal_no_hogares": "1",
+                "ubicacion_censal_hogar_no": "11",
+                "ubicacion_censal_informante": {
+                    "informante_apellidos_nombres": "CONDORI CHAMANA EVA MARISOL",
+                    "informante_no_orden": "02"
+                },
+                "ubicacion_censal_direccion_vivienda": {
+                    "direccion_vivienda_tipo_via": {
+                        "opcion_numero": 6,
+                        "opcion_seleccionada": "Otro"
+                    },
+                    "direccion_vivienda_nombre_via": "SECTOR 12",
+                    "direccion_vivienda_puerta_no": "SN",
+                    "direccion_vivienda_block": "",
+                    "direccion_vivienda_piso": "01",
+                    "direccion_vivienda_interior": "",
+                    "direccion_vivienda_manzana": "M1",
+                    "direccion_vivienda_lote": "010",
+                    "direccion_vivienda_km": "",
+                    "direccion_vivienda_telefono_domicilio": ""
+                }
+            }
+        },
+        "fsu_personal_responsable": {
+            "empadronador": {
+                "nombre": " MARISOL ROXANA",
+                "apellido_paterno": " PUMA",
+                "apellido_materno": " CHECA",
+                "dni": "44272610"
+            },
+            "jefe_de_brigada": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "revisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "supervisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            }
+        },
+        "fsu_entrevista_supervision": {
+            "entrevista_supervision_visita": {
+                "empadronador_visitas": {
+                    "primera_visita": {
+                        "primera_visita_fecha": "2023-06-26T05:00:00.000Z",
+                        "primera_visita_resultado": {
+                            "primera_visita_resultado_codigo": 1,
+                            "primera_visita_resultado_valor": "Completa"
+                        }
+                    },
+                    "segunda_visita": {
+                        "segunda_visita_fecha": null,
+                        "segunda_visita_resultado": {
+                            "segunda_visita_resultado_codigo": null,
+                            "segunda_visita_resultado_valor": null
+                        }
+                    },
+                    "tercera_visita": {
+                        "tercera_visita_fecha": null,
+                        "tercera_visita_resultado": {
+                            "tercera_visita_resultado_codigo": null,
+                            "tercera_visita_resultado_valor": null
+                        }
+                    }
+                }
+            },
+            "entrevista_supervision_resultado_final": {
+                "fecha": "2023-06-26T05:00:00.000Z",
+                "resultado": {
+                    "resultado_codigo": 1,
+                    "resultado_valor": "Completa"
+                }
+            }
+        },
+        "fsu_conformidad_empadronamiento": {
+            "conformidad_empadronamiento_reside_permantemente_vivienda": true,
+            "conformidad_empadronamiento_caracteristicas_vivienda": {
+                "caracteristicas_vivienda_numero_pisos": 1,
+                "caracteristicas_vivienda_color_vivienda": "SIN COLOR"
+            },
+            "conformidad_empadronamiento_firma_empadronador": null,
+            "conformidad_empadronamiento_huella_digital_informante": null,
+            "conformidad_empadronamiento_firma_informante": {
+                "firmado": true
+            }
+        },
+        "fsu_caracteristicas_vivienda_preguntas": {
+            "caracteristicas_vivienda_tipo_vivienda": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Casa independiente"
+            },
+            "caracteristicas_vivienda_su_vivienda_es": {
+                "opcion_numero": 6,
+                "opcion_seleccionada": "Cedida por otro hogar o institución"
+            },
+            "caracteristicas_vivienda_material_paredes_exteriores": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Ladrillo o bloque de cemento"
+            },
+            "caracteristicas_vivienda_material_techos": {
+                "opcion_numero": 4,
+                "opcion_seleccionada": "Planchas de calamina, fibra de cemento o similares"
+            },
+            "caracteristicas_vivienda_material_pisos": {
+                "opcion_numero": 5,
+                "opcion_seleccionada": "Cemento"
+            },
+            "caracteristicas_vivienda_tipo_alumbrado": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Electricidad"
+            },
+            "caracteristicas_vivienda_abastecimiento_agua": {
+                "opcion_numero": 3,
+                "opcion_seleccionada": "Pilón de uso público"
+            },
+            "caracteristicas_vivienda_servicio_higienico_conectado": {
+                "opcion_numero": 3,
+                "opcion_seleccionada": "Pozo séptico"
+            },
+            "caracteristicas_vivienda_horas_llegada_capital_distrital": {
+                "opcion_numero": 0,
+                "opcion_seleccionada": "Menos de 24 horas",
+                "numero_horas": 2
+            },
+            "caracteristicas_vivienda_no_habitaciones": 1,
+            "caracteristicas_vivienda_combustible_utilizado_cocina": {
+                "opcion_numero": 2,
+                "opcion_seleccionada": "Gas"
+            },
+            "caracteristicas_vivienda_su_hogar_tiene": [
+                {
+                    "opcion_numero": 4,
+                    "opcion_seleccionada": "Licuadora"
+                }
+            ],
+            "caracteristicas_vivienda_suministro_agua_luz": {
+                "opcion_seleccionada": "No tiene",
+                "opcion_numero": 3
+            },
+            "caracteristicas_vivienda_no_personas_hogar": {
+                "total": 5,
+                "hombres": 2,
+                "mujeres": 3
+            }
+        },
+        "caracteristicas_poblacion": [
+            {
+                "caracteristicas_poblacion_numero_orden": " 1",
+                "caracteristicas_poblacion_apellido_paterno": "ALVIS",
+                "caracteristicas_poblacion_apellido_materno": "VERA",
+                "caracteristicas_poblacion_nombres": "MILAR",
+                "caracteristicas_poblacion_apellidos": "ALVIS VERA",
+                "caracteristicas_poblacion_fecha_nac": "1994-03-24T04:00:00.000Z",
+                "caracteristicas_poblacion_edad": 29,
+                "caracteristicas_poblacion_meses": 3,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "48203294",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Jefe"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niñez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 5,
+                        "opcion_seleccionada": "Superior no universitaria",
+                        "ultimo_anio_aprobado": "2"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Trabajador independiente"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 9,
+                        "opcion_seleccionada": "Otros"
+                    },
+                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_numero_orden": " 2",
+                "caracteristicas_poblacion_apellido_paterno": "CONDORI",
+                "caracteristicas_poblacion_apellido_materno": "CHAMANA",
+                "caracteristicas_poblacion_nombres": "EVA MARISOL",
+                "caracteristicas_poblacion_apellidos": "CONDORI CHAMANA",
+                "caracteristicas_poblacion_fecha_nac": "1991-12-14T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 31,
+                "caracteristicas_poblacion_meses": 6,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "47203431",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Cónyuge"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Femenino",
+                        "gestante": false
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niñez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
+                        "ultimo_anio_aprobado": "5"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 7,
+                        "opcion_seleccionada": "Dedicado a los quehaceres del hogar"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_numero_orden": " 3",
+                "caracteristicas_poblacion_apellido_paterno": "ALVIS",
+                "caracteristicas_poblacion_apellido_materno": "CONDORI",
+                "caracteristicas_poblacion_nombres": "LIAM ROBINSON",
+                "caracteristicas_poblacion_apellidos": "ALVIS CONDORI",
+                "caracteristicas_poblacion_fecha_nac": "2015-10-22T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 7,
+                "caracteristicas_poblacion_meses": 8,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "79351540",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niñez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Primaria",
+                        "ultimo_anio_aprobado": "1"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 8,
+                        "opcion_seleccionada": "Estudiante"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_numero_orden": " 4",
+                "caracteristicas_poblacion_apellido_paterno": "ALVIS",
+                "caracteristicas_poblacion_apellido_materno": "CONDORI",
+                "caracteristicas_poblacion_nombres": "EILY YARUMI",
+                "caracteristicas_poblacion_apellidos": "ALVIS CONDORI",
+                "caracteristicas_poblacion_fecha_nac": "2019-05-13T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 4,
+                "caracteristicas_poblacion_meses": 1,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "91320574",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Femenino",
+                        "gestante": false
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niñez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
+                    },
+                    "preguntas_sabe_leer_escribir": false,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Ninguno",
+                        "ultimo_anio_aprobado": "0"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_numero_orden": " 5",
+                "caracteristicas_poblacion_apellido_paterno": "ALVIS",
+                "caracteristicas_poblacion_apellido_materno": "CONDORI",
+                "caracteristicas_poblacion_nombres": "ALEXIA SABRINA",
+                "caracteristicas_poblacion_apellidos": "ALVIS CONDORI",
+                "caracteristicas_poblacion_fecha_nac": "2021-05-30T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 2,
+                "caracteristicas_poblacion_meses": 0,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "92382205",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Femenino",
+                        "gestante": false
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niñez": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sabe_leer_escribir": null,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 0,
+                        "ultimo_anio_aprobado": "0"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            }
+        ]
+    }
