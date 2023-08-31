@@ -35,7 +35,7 @@
             "ubicacion_censal_frente_manzana_no": null,
             "ubicacion_censal_vivienda_no": null,
             "ubicacion_censal_no_hogares": 1,
-            "ubicacion_censal_hogar_no": "1/1",
+            "ubicacion_censal_hogar_no": "1",
             "ubicacion_censal_informante": {
                 "informante_apellidos_nombres": "CONDORI CHAMANA EVA MARISOL",
                 "informante_no_orden": "02"
@@ -187,9 +187,8 @@
                 "mujeres": 3
             }
         },
-        "caracteristicas_poblacion": [
+        "fsu_caracteristicas_poblacion": [
             {
-                "caracteristicas_poblacion_numero_orden": " 1",
                 "caracteristicas_poblacion_apellido_paterno": "ALVIS",
                 "caracteristicas_poblacion_apellido_materno": "VERA",
                 "caracteristicas_poblacion_nombres": "MILAR",
@@ -221,7 +220,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 1,
                         "opcion_seleccionada": "Quechua"
                     },
@@ -239,12 +238,11 @@
                         "opcion_numero": 9,
                         "opcion_seleccionada": "Otros"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 2",
                 "caracteristicas_poblacion_apellido_paterno": "CONDORI",
                 "caracteristicas_poblacion_apellido_materno": "CHAMANA",
                 "caracteristicas_poblacion_nombres": "EVA MARISOL",
@@ -277,7 +275,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 1,
                         "opcion_seleccionada": "Quechua"
                     },
@@ -295,12 +293,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 3",
                 "caracteristicas_poblacion_apellido_paterno": "ALVIS",
                 "caracteristicas_poblacion_apellido_materno": "CONDORI",
                 "caracteristicas_poblacion_nombres": "LIAM ROBINSON",
@@ -332,7 +329,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -350,12 +347,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 4",
                 "caracteristicas_poblacion_apellido_paterno": "ALVIS",
                 "caracteristicas_poblacion_apellido_materno": "CONDORI",
                 "caracteristicas_poblacion_nombres": "EILY YARUMI",
@@ -388,7 +384,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -406,12 +402,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 5",
                 "caracteristicas_poblacion_apellido_paterno": "ALVIS",
                 "caracteristicas_poblacion_apellido_materno": "CONDORI",
                 "caracteristicas_poblacion_nombres": "ALEXIA SABRINA",
@@ -444,7 +439,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
@@ -461,419 +456,7 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            }
-        ]
-    },
-    {
-        "fsu_no_fsu": "R20724338",
-        "fsu_solicitud_s100": "06797641",
-        "fsu_ubicacion_geografica": {
-            "departamento": {
-                "nombre": "AREQUIPA",
-                "codigo_ubigeo": "04",
-                "provincia": {
-                    "nombre": "AREQUIPA",
-                    "codigo_ubigeo": "01",
-                    "distrito": {
-                        "nombre": "CERRO COLORADO",
-                        "codigo_ubigeo": "04",
-                        "centro_poblado": {
-                            "nombre": "CONO NORTE",
-                            "codigo_ubigeo": "0002",
-                            "categoria": "04",
-                            "nucleo_urbano": {
-                                "nombre": "APIPA",
-                                "categoria_nucleo_urbano": {
-                                    "opcion_numero": 12,
-                                    "opcion_seleccionada": "Asociación de vivienda"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "fsu_ubicacion_censal": {
-            "ubicacion_censal_conglomerado_no": null,
-            "ubicacion_censal_zona_no": 0,
-            "ubicacion_censal_manzana_no": 0,
-            "ubicacion_censal_frente_manzana_no": null,
-            "ubicacion_censal_vivienda_no": null,
-            "ubicacion_censal_no_hogares": 1,
-            "ubicacion_censal_hogar_no": "1/1",
-            "ubicacion_censal_informante": {
-                "informante_apellidos_nombres": "ALCCA MOTTOCCANCHI WILYAN",
-                "informante_no_orden": "01"
-            },
-            "ubicacion_censal_direccion_vivienda": {
-                "direccion_vivienda_tipo_via": {
-                    "opcion_numero": 6,
-                    "opcion_seleccionada": "Otro"
-                },
-                "direccion_vivienda_nombre_via": "SECTOR 15",
-                "direccion_vivienda_puerta_no": "SN",
-                "direccion_vivienda_block": "",
-                "direccion_vivienda_piso": "01",
-                "direccion_vivienda_interior": "",
-                "direccion_vivienda_manzana": "J3",
-                "direccion_vivienda_lote": "002",
-                "direccion_vivienda_km": "",
-                "direccion_vivienda_telefono_domicilio": ""
-            }
-        },
-        "fsu_personal_responsable": {
-            "empadronador": {
-                "nombre": " MARISOL ROXANA",
-                "apellido_paterno": " PUMA",
-                "apellido_materno": " CHECA",
-                "dni": "44272610"
-            },
-            "jefe_de_brigada": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            },
-            "revisor": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            },
-            "supervisor": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            }
-        },
-        "fsu_entrevista_supervision": {
-            "entrevista_supervision_visita": {
-                "empadronador_visitas": {
-                    "primera_visita": {
-                        "primera_visita_fecha": "2023-06-26T05:00:00.000Z",
-                        "primera_visita_resultado": {
-                            "primera_visita_resultado_codigo": 1,
-                            "primera_visita_resultado_valor": "Completa"
-                        }
-                    },
-                    "segunda_visita": {
-                        "segunda_visita_fecha": null,
-                        "segunda_visita_resultado": {
-                            "segunda_visita_resultado_codigo": null,
-                            "segunda_visita_resultado_valor": null
-                        }
-                    },
-                    "tercera_visita": {
-                        "tercera_visita_fecha": null,
-                        "tercera_visita_resultado": {
-                            "tercera_visita_resultado_codigo": null,
-                            "tercera_visita_resultado_valor": null
-                        }
-                    }
-                }
-            },
-            "entrevista_supervision_resultado_final": {
-                "fecha": "2023-06-26T05:00:00.000Z",
-                "resultado": {
-                    "resultado_codigo": 1,
-                    "resultado_valor": "Completa"
-                }
-            }
-        },
-        "fsu_conformidad_empadronamiento": {
-            "conformidad_empadronamiento_reside_permantemente_vivienda": true,
-            "conformidad_empadronamiento_caracteristicas_vivienda": {
-                "caracteristicas_vivienda_numero_pisos": 1,
-                "caracteristicas_vivienda_color_vivienda": "SIN COLOR"
-            },
-            "conformidad_empadronamiento_firma_empadronador": null,
-            "conformidad_empadronamiento_huella_digital_informante": null,
-            "conformidad_empadronamiento_firma_informante": {
-                "firmado": true
-            }
-        },
-        "fsu_caracteristicas_vivienda_preguntas": {
-            "caracteristicas_vivienda_tipo_vivienda": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Casa independiente"
-            },
-            "caracteristicas_vivienda_su_vivienda_es": {
-                "opcion_numero": 3,
-                "opcion_seleccionada": "Propia, totalmente pagada"
-            },
-            "caracteristicas_vivienda_material_paredes_exteriores": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Ladrillo o bloque de cemento"
-            },
-            "caracteristicas_vivienda_material_techos": {
-                "opcion_numero": 4,
-                "opcion_seleccionada": "Planchas de calamina, fibra de cemento o similares"
-            },
-            "caracteristicas_vivienda_material_pisos": {
-                "opcion_numero": 5,
-                "opcion_seleccionada": "Cemento"
-            },
-            "caracteristicas_vivienda_tipo_alumbrado": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Electricidad"
-            },
-            "caracteristicas_vivienda_abastecimiento_agua": {
-                "opcion_numero": 3,
-                "opcion_seleccionada": "Pilón de uso público"
-            },
-            "caracteristicas_vivienda_servicio_higienico_conectado": {
-                "opcion_numero": 3,
-                "opcion_seleccionada": "Pozo séptico"
-            },
-            "caracteristicas_vivienda_horas_llegada_capital_distrital": {
-                "opcion_numero": 0,
-                "opcion_seleccionada": "Menos de 24 horas",
-                "numero_horas": 2
-            },
-            "caracteristicas_vivienda_no_habitaciones": 1,
-            "caracteristicas_vivienda_combustible_utilizado_cocina": {
-                "opcion_numero": 2,
-                "opcion_seleccionada": "Gas"
-            },
-            "caracteristicas_vivienda_su_hogar_tiene": [
-                {
-                    "opcion_numero": 4,
-                    "opcion_seleccionada": "Licuadora"
-                }
-            ],
-            "caracteristicas_vivienda_suministro_agua_luz": {
-                "opcion_seleccionada": "No tiene",
-                "opcion_numero": 3
-            },
-            "caracteristicas_vivienda_no_personas_hogar": {
-                "total": 4,
-                "hombres": 3,
-                "mujeres": 1
-            }
-        },
-        "caracteristicas_poblacion": [
-            {
-                "caracteristicas_poblacion_numero_orden": " 1",
-                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
-                "caracteristicas_poblacion_apellido_materno": "MOTTOCCANCHI",
-                "caracteristicas_poblacion_nombres": "WILYAN",
-                "caracteristicas_poblacion_apellidos": "ALCCA MOTTOCCANCHI",
-                "caracteristicas_poblacion_fecha_nac": "1993-09-09T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 29,
-                "caracteristicas_poblacion_meses": 9,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "47973132",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Jefe"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Conviviente"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Quechua"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Secundaria",
-                        "ultimo_anio_aprobado": "5"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Trabajador independiente"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 9,
-                        "opcion_seleccionada": "Otros"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 2",
-                "caracteristicas_poblacion_apellido_paterno": "CHALLCO",
-                "caracteristicas_poblacion_apellido_materno": "ACHINQUIPA",
-                "caracteristicas_poblacion_nombres": "ISKRA PILAR",
-                "caracteristicas_poblacion_apellidos": "CHALLCO ACHINQUIPA",
-                "caracteristicas_poblacion_fecha_nac": "1991-12-01T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 31,
-                "caracteristicas_poblacion_meses": 6,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "47378080",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Cónyuge"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Femenino",
-                        "gestante": false
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Conviviente"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Quechua"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 5,
-                        "opcion_seleccionada": "Superior no universitaria",
-                        "ultimo_anio_aprobado": "3"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 7,
-                        "opcion_seleccionada": "Dedicado a los quehaceres del hogar"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 3",
-                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
-                "caracteristicas_poblacion_apellido_materno": "CHALLCO",
-                "caracteristicas_poblacion_nombres": "EDISSON JOSUE",
-                "caracteristicas_poblacion_apellidos": "ALCCA CHALLCO",
-                "caracteristicas_poblacion_fecha_nac": "2016-03-09T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 7,
-                "caracteristicas_poblacion_meses": 3,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "81524606",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Hijo/a"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Castellano"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Primaria",
-                        "ultimo_anio_aprobado": "1"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 8,
-                        "opcion_seleccionada": "Estudiante"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 4",
-                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
-                "caracteristicas_poblacion_apellido_materno": "CHALLCO",
-                "caracteristicas_poblacion_nombres": "CRISTOPER XANDER",
-                "caracteristicas_poblacion_apellidos": "ALCCA CHALLCO",
-                "caracteristicas_poblacion_fecha_nac": "2018-12-26T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 4,
-                "caracteristicas_poblacion_meses": 6,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "91115329",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Hijo/a"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Quechua"
-                    },
-                    "preguntas_sabe_leer_escribir": false,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Inicial",
-                        "ultimo_anio_aprobado": "0"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             }
@@ -915,7 +498,7 @@
             "ubicacion_censal_frente_manzana_no": null,
             "ubicacion_censal_vivienda_no": null,
             "ubicacion_censal_no_hogares": 9,
-            "ubicacion_censal_hogar_no": "1/9",
+            "ubicacion_censal_hogar_no": "1",
             "ubicacion_censal_informante": {
                 "informante_apellidos_nombres": "CASTRO ZAA MATILDE",
                 "informante_no_orden": "01"
@@ -1067,9 +650,8 @@
                 "mujeres": 2
             }
         },
-        "caracteristicas_poblacion": [
+        "fsu_caracteristicas_poblacion": [
             {
-                "caracteristicas_poblacion_numero_orden": " 1",
                 "caracteristicas_poblacion_apellido_paterno": "CASTRO",
                 "caracteristicas_poblacion_apellido_materno": "ZAA",
                 "caracteristicas_poblacion_nombres": "MATILDE",
@@ -1102,7 +684,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 1,
                         "opcion_seleccionada": "Quechua"
                     },
@@ -1120,12 +702,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 2",
                 "caracteristicas_poblacion_apellido_paterno": "LOPEZ",
                 "caracteristicas_poblacion_apellido_materno": "CASTRO",
                 "caracteristicas_poblacion_nombres": "XIMENA CARLA",
@@ -1158,7 +739,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 1,
                         "opcion_seleccionada": "Quechua"
                     },
@@ -1176,12 +757,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 3",
                 "caracteristicas_poblacion_apellido_paterno": "LOPEZ",
                 "caracteristicas_poblacion_apellido_materno": "CASTRO",
                 "caracteristicas_poblacion_nombres": "LEONARDO RODRIGO",
@@ -1213,7 +793,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -1231,15 +811,15 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             }
         ]
     },
     {
-        "fsu_no_fsu": "R20724359",
-        "fsu_solicitud_s100": "06797671",
+        "fsu_no_fsu": "R20724324",
+        "fsu_solicitud_s100": "06797627",
         "fsu_ubicacion_geografica": {
             "departamento": {
                 "nombre": "AREQUIPA",
@@ -1251,11 +831,11 @@
                         "nombre": "CERRO COLORADO",
                         "codigo_ubigeo": "04",
                         "centro_poblado": {
-                            "nombre": "CONO NORTE",
-                            "codigo_ubigeo": "0002",
+                            "nombre": "LA LIBERTAD",
+                            "codigo_ubigeo": "0001",
                             "categoria": "04",
                             "nucleo_urbano": {
-                                "nombre": "EL NAZARENO",
+                                "nombre": "CERRITO LOS ALVAREZ",
                                 "categoria_nucleo_urbano": {
                                     "opcion_numero": 12,
                                     "opcion_seleccionada": "Asociación de vivienda"
@@ -1273,33 +853,33 @@
             "ubicacion_censal_frente_manzana_no": null,
             "ubicacion_censal_vivienda_no": null,
             "ubicacion_censal_no_hogares": 1,
-            "ubicacion_censal_hogar_no": "1/1",
+            "ubicacion_censal_hogar_no": "1",
             "ubicacion_censal_informante": {
-                "informante_apellidos_nombres": "PARI LARICO GISELA TRINIDAD",
+                "informante_apellidos_nombres": "VILLALOBOS GALLEGOS RUTH GRISELDA",
                 "informante_no_orden": "02"
             },
             "ubicacion_censal_direccion_vivienda": {
                 "direccion_vivienda_tipo_via": {
-                    "opcion_numero": 6,
-                    "opcion_seleccionada": "Otro"
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "Avenida"
                 },
-                "direccion_vivienda_nombre_via": "SN",
-                "direccion_vivienda_puerta_no": "SN",
+                "direccion_vivienda_nombre_via": "CHACHANI",
+                "direccion_vivienda_puerta_no": "0318",
                 "direccion_vivienda_block": "",
                 "direccion_vivienda_piso": "01",
                 "direccion_vivienda_interior": "",
-                "direccion_vivienda_manzana": "L",
-                "direccion_vivienda_lote": "032",
+                "direccion_vivienda_manzana": "",
+                "direccion_vivienda_lote": "",
                 "direccion_vivienda_km": "",
                 "direccion_vivienda_telefono_domicilio": ""
             }
         },
         "fsu_personal_responsable": {
             "empadronador": {
-                "nombre": " ESTELA",
-                "apellido_paterno": " PINTO",
-                "apellido_materno": " MAMANI",
-                "dni": "40245839"
+                "nombre": " ROLANDO CARLOS",
+                "apellido_paterno": " ALVAREZ",
+                "apellido_materno": " ROQUE",
+                "dni": "71407278"
             },
             "jefe_de_brigada": {
                 "nombre": null,
@@ -1358,7 +938,7 @@
             "conformidad_empadronamiento_reside_permantemente_vivienda": true,
             "conformidad_empadronamiento_caracteristicas_vivienda": {
                 "caracteristicas_vivienda_numero_pisos": 1,
-                "caracteristicas_vivienda_color_vivienda": "CREMA"
+                "caracteristicas_vivienda_color_vivienda": "SIN COLOR"
             },
             "conformidad_empadronamiento_firma_empadronador": null,
             "conformidad_empadronamiento_huella_digital_informante": null,
@@ -1372,12 +952,12 @@
                 "opcion_seleccionada": "Casa independiente"
             },
             "caracteristicas_vivienda_su_vivienda_es": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Alquilada"
+                "opcion_numero": 6,
+                "opcion_seleccionada": "Cedida por otro hogar o institución"
             },
             "caracteristicas_vivienda_material_paredes_exteriores": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Ladrillo o bloque de cemento"
+                "opcion_numero": 6,
+                "opcion_seleccionada": "Madera"
             },
             "caracteristicas_vivienda_material_techos": {
                 "opcion_numero": 4,
@@ -1392,36 +972,24 @@
                 "opcion_seleccionada": "Electricidad"
             },
             "caracteristicas_vivienda_abastecimiento_agua": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Red pública dentro de la vivienda"
+                "opcion_numero": 2,
+                "opcion_seleccionada": "Red pública fuera de la vivienda pero dentro del edificio"
             },
             "caracteristicas_vivienda_servicio_higienico_conectado": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Red pública dentro de la vivienda"
+                "opcion_numero": 2,
+                "opcion_seleccionada": "Red pública fuera de la vivienda pero dentro del edificio"
             },
             "caracteristicas_vivienda_horas_llegada_capital_distrital": {
                 "opcion_numero": 0,
                 "opcion_seleccionada": "Menos de 24 horas",
-                "numero_horas": 1
+                "numero_horas": 0
             },
-            "caracteristicas_vivienda_no_habitaciones": 1,
+            "caracteristicas_vivienda_no_habitaciones": 2,
             "caracteristicas_vivienda_combustible_utilizado_cocina": {
                 "opcion_numero": 2,
                 "opcion_seleccionada": "Gas"
             },
             "caracteristicas_vivienda_su_hogar_tiene": [
-                {
-                    "opcion_numero": 2,
-                    "opcion_seleccionada": "Televisor a color"
-                },
-                {
-                    "opcion_numero": 5,
-                    "opcion_seleccionada": "Refrigeradora / congeladora"
-                },
-                {
-                    "opcion_numero": 6,
-                    "opcion_seleccionada": "Cocina a gas"
-                },
                 {
                     "opcion_numero": 14,
                     "opcion_seleccionada": "Celular"
@@ -1432,26 +1000,25 @@
                 "opcion_numero": 3
             },
             "caracteristicas_vivienda_no_personas_hogar": {
-                "total": 4,
+                "total": 5,
                 "hombres": 3,
-                "mujeres": 1
+                "mujeres": 2
             }
         },
-        "caracteristicas_poblacion": [
+        "fsu_caracteristicas_poblacion": [
             {
-                "caracteristicas_poblacion_numero_orden": " 1",
-                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
-                "caracteristicas_poblacion_apellido_materno": "MAMANI",
-                "caracteristicas_poblacion_nombres": "HUBER ANTHONY",
-                "caracteristicas_poblacion_apellidos": "HUAMANI MAMANI",
-                "caracteristicas_poblacion_fecha_nac": "1996-01-12T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 27,
-                "caracteristicas_poblacion_meses": 5,
+                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
+                "caracteristicas_poblacion_apellido_materno": "VARGAS",
+                "caracteristicas_poblacion_nombres": "MARCO ANTONIO",
+                "caracteristicas_poblacion_apellidos": "DAVILA VARGAS",
+                "caracteristicas_poblacion_fecha_nac": "1982-03-03T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 41,
+                "caracteristicas_poblacion_meses": 3,
                 "caracteristicas_poblacion_tipo_documento": {
                     "opcion_numero": 1,
                     "opcion_seleccionada": "DNI"
                 },
-                "caracteristicas_poblacion_numero_documento": "73605563",
+                "caracteristicas_poblacion_numero_documento": "42223548",
                 "caracteristicas_poblacion_preguntas": {
                     "preguntas_parentesco_jefe_hogar": {
                         "opcion_numero": 1,
@@ -1462,51 +1029,45 @@
                         "sexo": "Masculino"
                     },
                     "preguntas_estado_civil": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Conviviente"
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Casado/a"
                     },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 1,
-                            "opcion_seleccionada": "Essalud"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_seguro_salud": [],
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
                     "preguntas_sabe_leer_escribir": true,
                     "preguntas_nivel_educativo": {
-                        "opcion_numero": 5,
-                        "opcion_seleccionada": "Superior no universitaria",
-                        "ultimo_anio_aprobado": "3"
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
+                        "ultimo_anio_aprobado": "5"
                     },
                     "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Trabajador dependiente"
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Trabajador independiente"
                     },
                     "preguntas_sector": {
-                        "opcion_numero": 9,
-                        "opcion_seleccionada": "Otros"
+                        "opcion_numero": 8,
+                        "opcion_seleccionada": "Servicios"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 2",
-                "caracteristicas_poblacion_apellido_paterno": "PARI",
-                "caracteristicas_poblacion_apellido_materno": "LARICO",
-                "caracteristicas_poblacion_nombres": "GISELA TRINIDAD",
-                "caracteristicas_poblacion_apellidos": "PARI LARICO",
-                "caracteristicas_poblacion_fecha_nac": "1994-01-11T04:00:00.000Z",
-                "caracteristicas_poblacion_edad": 29,
-                "caracteristicas_poblacion_meses": 5,
+                "caracteristicas_poblacion_apellido_paterno": "VILLALOBOS",
+                "caracteristicas_poblacion_apellido_materno": "GALLEGOS",
+                "caracteristicas_poblacion_nombres": "RUTH GRISELDA",
+                "caracteristicas_poblacion_apellidos": "VILLALOBOS GALLEGOS",
+                "caracteristicas_poblacion_fecha_nac": "1979-08-12T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 43,
+                "caracteristicas_poblacion_meses": 10,
                 "caracteristicas_poblacion_tipo_documento": {
                     "opcion_numero": 1,
                     "opcion_seleccionada": "DNI"
                 },
-                "caracteristicas_poblacion_numero_documento": "72131384",
+                "caracteristicas_poblacion_numero_documento": "40331486",
                 "caracteristicas_poblacion_preguntas": {
                     "preguntas_parentesco_jefe_hogar": {
                         "opcion_numero": 2,
@@ -1518,46 +1079,104 @@
                         "gestante": false
                     },
                     "preguntas_estado_civil": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Conviviente"
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Casado/a"
                     },
-                    "preguntas_seguro_salud": [],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
+                        "ultimo_anio_aprobado": "5"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 7,
+                        "opcion_seleccionada": "Dedicado a los quehaceres del hogar"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
+                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
+                "caracteristicas_poblacion_nombres": "PIERO ALEXANDER",
+                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
+                "caracteristicas_poblacion_fecha_nac": "2003-11-10T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 19,
+                "caracteristicas_poblacion_meses": 7,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "72140023",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Soltero/a"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
                     "preguntas_sabe_leer_escribir": true,
                     "preguntas_nivel_educativo": {
-                        "opcion_numero": 6,
-                        "opcion_seleccionada": "Superior universitaria",
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
                         "ultimo_anio_aprobado": "5"
                     },
                     "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Trabajador dependiente"
+                        "opcion_numero": 6,
+                        "opcion_seleccionada": "Desempleado"
                     },
                     "preguntas_sector": {
-                        "opcion_numero": 9,
-                        "opcion_seleccionada": "Otros"
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 3",
-                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
-                "caracteristicas_poblacion_apellido_materno": "PARI",
-                "caracteristicas_poblacion_nombres": "ANTHONY RAFAEL",
-                "caracteristicas_poblacion_apellidos": "HUAMANI PARI",
-                "caracteristicas_poblacion_fecha_nac": "2020-06-28T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 2,
+                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
+                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
+                "caracteristicas_poblacion_nombres": "EDUARDO JOSE",
+                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
+                "caracteristicas_poblacion_fecha_nac": "2005-06-28T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 17,
                 "caracteristicas_poblacion_meses": 11,
                 "caracteristicas_poblacion_tipo_documento": {
                     "opcion_numero": 1,
                     "opcion_seleccionada": "DNI"
                 },
-                "caracteristicas_poblacion_numero_documento": "91909777",
+                "caracteristicas_poblacion_numero_documento": "72140021",
                 "caracteristicas_poblacion_preguntas": {
                     "preguntas_parentesco_jefe_hogar": {
                         "opcion_numero": 3,
@@ -1568,50 +1187,50 @@
                         "sexo": "Masculino"
                     },
                     "preguntas_estado_civil": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Soltero/a"
                     },
                     "preguntas_seguro_salud": [
                         {
-                            "opcion_numero": 1,
-                            "opcion_seleccionada": "Essalud"
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
                     },
-                    "preguntas_sabe_leer_escribir": null,
+                    "preguntas_sabe_leer_escribir": true,
                     "preguntas_nivel_educativo": {
-                        "opcion_numero": 0,
-                        "ultimo_anio_aprobado": "0"
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
+                        "ultimo_anio_aprobado": "5"
                     },
                     "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
+                        "opcion_numero": 8,
+                        "opcion_seleccionada": "Estudiante"
                     },
                     "preguntas_sector": {
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 4",
-                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
-                "caracteristicas_poblacion_apellido_materno": "PARI",
-                "caracteristicas_poblacion_nombres": "FERNANDO SEBASTIAN",
-                "caracteristicas_poblacion_apellidos": "HUAMANI PARI",
-                "caracteristicas_poblacion_fecha_nac": "2023-05-11T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 0,
-                "caracteristicas_poblacion_meses": 1,
+                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
+                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
+                "caracteristicas_poblacion_nombres": "BRIANNA HANNA",
+                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
+                "caracteristicas_poblacion_fecha_nac": "2018-05-31T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 5,
+                "caracteristicas_poblacion_meses": 0,
                 "caracteristicas_poblacion_tipo_documento": {
                     "opcion_numero": 1,
                     "opcion_seleccionada": "DNI"
                 },
-                "caracteristicas_poblacion_numero_documento": "93383800",
+                "caracteristicas_poblacion_numero_documento": "90800570",
                 "caracteristicas_poblacion_preguntas": {
                     "preguntas_parentesco_jefe_hogar": {
                         "opcion_numero": 3,
@@ -1619,7 +1238,8 @@
                     },
                     "preguntas_nucleo_familiar_no": "1",
                     "preguntas_sexo": {
-                        "sexo": "Masculino"
+                        "sexo": "Femenino",
+                        "gestante": false
                     },
                     "preguntas_estado_civil": {
                         "opcion_numero": 0,
@@ -1627,17 +1247,18 @@
                     },
                     "preguntas_seguro_salud": [
                         {
-                            "opcion_numero": 1,
-                            "opcion_seleccionada": "Essalud"
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
                     },
-                    "preguntas_sabe_leer_escribir": null,
+                    "preguntas_sabe_leer_escribir": false,
                     "preguntas_nivel_educativo": {
-                        "opcion_numero": 0,
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Inicial",
                         "ultimo_anio_aprobado": "0"
                     },
                     "preguntas_ocupacion_ultimo_mes": {
@@ -1648,7 +1269,7 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             }
@@ -1690,7 +1311,7 @@
             "ubicacion_censal_frente_manzana_no": null,
             "ubicacion_censal_vivienda_no": null,
             "ubicacion_censal_no_hogares": 2,
-            "ubicacion_censal_hogar_no": "1/2",
+            "ubicacion_censal_hogar_no": "1",
             "ubicacion_censal_informante": {
                 "informante_apellidos_nombres": "QUISPE QUISPE RUDI NATALIA",
                 "informante_no_orden": "01"
@@ -1875,9 +1496,8 @@
                 "mujeres": 1
             }
         },
-        "caracteristicas_poblacion": [
+        "fsu_caracteristicas_poblacion": [
             {
-                "caracteristicas_poblacion_numero_orden": " 1",
                 "caracteristicas_poblacion_apellido_paterno": "QUISPE",
                 "caracteristicas_poblacion_apellido_materno": "QUISPE",
                 "caracteristicas_poblacion_nombres": "RUDI NATALIA",
@@ -1910,7 +1530,7 @@
                             "opcion_seleccionada": "Essalud"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -1928,7 +1548,7 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [
+                    "preguntas_discapacidades": [
                         {
                             "opcion_numero": 2,
                             "opcion_seleccionada": "Para oír parcial o total"
@@ -1987,7 +1607,6 @@
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 2",
                 "caracteristicas_poblacion_apellido_paterno": "SALCEDO",
                 "caracteristicas_poblacion_apellido_materno": "QUISPE",
                 "caracteristicas_poblacion_nombres": "JOSUE DAVID",
@@ -2019,7 +1638,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -2037,12 +1656,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 3",
                 "caracteristicas_poblacion_apellido_paterno": "SALCEDO",
                 "caracteristicas_poblacion_apellido_materno": "QUISPE",
                 "caracteristicas_poblacion_nombres": "BENJAMIN DANIEL",
@@ -2074,7 +1692,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
@@ -2091,7 +1709,828 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            }
+        ]
+    },
+    {
+        "fsu_no_fsu": "R20724359",
+        "fsu_solicitud_s100": "06797671",
+        "fsu_ubicacion_geografica": {
+            "departamento": {
+                "nombre": "AREQUIPA",
+                "codigo_ubigeo": "04",
+                "provincia": {
+                    "nombre": "AREQUIPA",
+                    "codigo_ubigeo": "01",
+                    "distrito": {
+                        "nombre": "CERRO COLORADO",
+                        "codigo_ubigeo": "04",
+                        "centro_poblado": {
+                            "nombre": "CONO NORTE",
+                            "codigo_ubigeo": "0002",
+                            "categoria": "04",
+                            "nucleo_urbano": {
+                                "nombre": "EL NAZARENO",
+                                "categoria_nucleo_urbano": {
+                                    "opcion_numero": 12,
+                                    "opcion_seleccionada": "Asociación de vivienda"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "fsu_ubicacion_censal": {
+            "ubicacion_censal_conglomerado_no": null,
+            "ubicacion_censal_zona_no": 0,
+            "ubicacion_censal_manzana_no": 0,
+            "ubicacion_censal_frente_manzana_no": null,
+            "ubicacion_censal_vivienda_no": null,
+            "ubicacion_censal_no_hogares": 1,
+            "ubicacion_censal_hogar_no": "1",
+            "ubicacion_censal_informante": {
+                "informante_apellidos_nombres": "PARI LARICO GISELA TRINIDAD",
+                "informante_no_orden": "02"
+            },
+            "ubicacion_censal_direccion_vivienda": {
+                "direccion_vivienda_tipo_via": {
+                    "opcion_numero": 6,
+                    "opcion_seleccionada": "Otro"
+                },
+                "direccion_vivienda_nombre_via": "SN",
+                "direccion_vivienda_puerta_no": "SN",
+                "direccion_vivienda_block": "",
+                "direccion_vivienda_piso": "01",
+                "direccion_vivienda_interior": "",
+                "direccion_vivienda_manzana": "L",
+                "direccion_vivienda_lote": "032",
+                "direccion_vivienda_km": "",
+                "direccion_vivienda_telefono_domicilio": ""
+            }
+        },
+        "fsu_personal_responsable": {
+            "empadronador": {
+                "nombre": " ESTELA",
+                "apellido_paterno": " PINTO",
+                "apellido_materno": " MAMANI",
+                "dni": "40245839"
+            },
+            "jefe_de_brigada": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "revisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "supervisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            }
+        },
+        "fsu_entrevista_supervision": {
+            "entrevista_supervision_visita": {
+                "empadronador_visitas": {
+                    "primera_visita": {
+                        "primera_visita_fecha": "2023-06-26T05:00:00.000Z",
+                        "primera_visita_resultado": {
+                            "primera_visita_resultado_codigo": 1,
+                            "primera_visita_resultado_valor": "Completa"
+                        }
+                    },
+                    "segunda_visita": {
+                        "segunda_visita_fecha": null,
+                        "segunda_visita_resultado": {
+                            "segunda_visita_resultado_codigo": null,
+                            "segunda_visita_resultado_valor": null
+                        }
+                    },
+                    "tercera_visita": {
+                        "tercera_visita_fecha": null,
+                        "tercera_visita_resultado": {
+                            "tercera_visita_resultado_codigo": null,
+                            "tercera_visita_resultado_valor": null
+                        }
+                    }
+                }
+            },
+            "entrevista_supervision_resultado_final": {
+                "fecha": "2023-06-26T05:00:00.000Z",
+                "resultado": {
+                    "resultado_codigo": 1,
+                    "resultado_valor": "Completa"
+                }
+            }
+        },
+        "fsu_conformidad_empadronamiento": {
+            "conformidad_empadronamiento_reside_permantemente_vivienda": true,
+            "conformidad_empadronamiento_caracteristicas_vivienda": {
+                "caracteristicas_vivienda_numero_pisos": 1,
+                "caracteristicas_vivienda_color_vivienda": "CREMA"
+            },
+            "conformidad_empadronamiento_firma_empadronador": null,
+            "conformidad_empadronamiento_huella_digital_informante": null,
+            "conformidad_empadronamiento_firma_informante": {
+                "firmado": true
+            }
+        },
+        "fsu_caracteristicas_vivienda_preguntas": {
+            "caracteristicas_vivienda_tipo_vivienda": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Casa independiente"
+            },
+            "caracteristicas_vivienda_su_vivienda_es": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Alquilada"
+            },
+            "caracteristicas_vivienda_material_paredes_exteriores": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Ladrillo o bloque de cemento"
+            },
+            "caracteristicas_vivienda_material_techos": {
+                "opcion_numero": 4,
+                "opcion_seleccionada": "Planchas de calamina, fibra de cemento o similares"
+            },
+            "caracteristicas_vivienda_material_pisos": {
+                "opcion_numero": 5,
+                "opcion_seleccionada": "Cemento"
+            },
+            "caracteristicas_vivienda_tipo_alumbrado": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Electricidad"
+            },
+            "caracteristicas_vivienda_abastecimiento_agua": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Red pública dentro de la vivienda"
+            },
+            "caracteristicas_vivienda_servicio_higienico_conectado": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Red pública dentro de la vivienda"
+            },
+            "caracteristicas_vivienda_horas_llegada_capital_distrital": {
+                "opcion_numero": 0,
+                "opcion_seleccionada": "Menos de 24 horas",
+                "numero_horas": 1
+            },
+            "caracteristicas_vivienda_no_habitaciones": 1,
+            "caracteristicas_vivienda_combustible_utilizado_cocina": {
+                "opcion_numero": 2,
+                "opcion_seleccionada": "Gas"
+            },
+            "caracteristicas_vivienda_su_hogar_tiene": [
+                {
+                    "opcion_numero": 2,
+                    "opcion_seleccionada": "Televisor a color"
+                },
+                {
+                    "opcion_numero": 5,
+                    "opcion_seleccionada": "Refrigeradora / congeladora"
+                },
+                {
+                    "opcion_numero": 6,
+                    "opcion_seleccionada": "Cocina a gas"
+                },
+                {
+                    "opcion_numero": 14,
+                    "opcion_seleccionada": "Celular"
+                }
+            ],
+            "caracteristicas_vivienda_suministro_agua_luz": {
+                "opcion_seleccionada": "No tiene",
+                "opcion_numero": 3
+            },
+            "caracteristicas_vivienda_no_personas_hogar": {
+                "total": 4,
+                "hombres": 3,
+                "mujeres": 1
+            }
+        },
+        "fsu_caracteristicas_poblacion": [
+            {
+                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
+                "caracteristicas_poblacion_apellido_materno": "MAMANI",
+                "caracteristicas_poblacion_nombres": "HUBER ANTHONY",
+                "caracteristicas_poblacion_apellidos": "HUAMANI MAMANI",
+                "caracteristicas_poblacion_fecha_nac": "1996-01-12T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 27,
+                "caracteristicas_poblacion_meses": 5,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "73605563",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Jefe"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 1,
+                            "opcion_seleccionada": "Essalud"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 5,
+                        "opcion_seleccionada": "Superior no universitaria",
+                        "ultimo_anio_aprobado": "3"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Trabajador dependiente"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 9,
+                        "opcion_seleccionada": "Otros"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "PARI",
+                "caracteristicas_poblacion_apellido_materno": "LARICO",
+                "caracteristicas_poblacion_nombres": "GISELA TRINIDAD",
+                "caracteristicas_poblacion_apellidos": "PARI LARICO",
+                "caracteristicas_poblacion_fecha_nac": "1994-01-11T04:00:00.000Z",
+                "caracteristicas_poblacion_edad": 29,
+                "caracteristicas_poblacion_meses": 5,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "72131384",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Cónyuge"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Femenino",
+                        "gestante": false
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 6,
+                        "opcion_seleccionada": "Superior universitaria",
+                        "ultimo_anio_aprobado": "5"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Trabajador dependiente"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 9,
+                        "opcion_seleccionada": "Otros"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
+                "caracteristicas_poblacion_apellido_materno": "PARI",
+                "caracteristicas_poblacion_nombres": "ANTHONY RAFAEL",
+                "caracteristicas_poblacion_apellidos": "HUAMANI PARI",
+                "caracteristicas_poblacion_fecha_nac": "2020-06-28T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 2,
+                "caracteristicas_poblacion_meses": 11,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "91909777",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 1,
+                            "opcion_seleccionada": "Essalud"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sabe_leer_escribir": null,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 0,
+                        "ultimo_anio_aprobado": "0"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "HUAMANI",
+                "caracteristicas_poblacion_apellido_materno": "PARI",
+                "caracteristicas_poblacion_nombres": "FERNANDO SEBASTIAN",
+                "caracteristicas_poblacion_apellidos": "HUAMANI PARI",
+                "caracteristicas_poblacion_fecha_nac": "2023-05-11T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 0,
+                "caracteristicas_poblacion_meses": 1,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "93383800",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 1,
+                            "opcion_seleccionada": "Essalud"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sabe_leer_escribir": null,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 0,
+                        "ultimo_anio_aprobado": "0"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            }
+        ]
+    },
+    {
+        "fsu_no_fsu": "R20724338",
+        "fsu_solicitud_s100": "06797641",
+        "fsu_ubicacion_geografica": {
+            "departamento": {
+                "nombre": "AREQUIPA",
+                "codigo_ubigeo": "04",
+                "provincia": {
+                    "nombre": "AREQUIPA",
+                    "codigo_ubigeo": "01",
+                    "distrito": {
+                        "nombre": "CERRO COLORADO",
+                        "codigo_ubigeo": "04",
+                        "centro_poblado": {
+                            "nombre": "CONO NORTE",
+                            "codigo_ubigeo": "0002",
+                            "categoria": "04",
+                            "nucleo_urbano": {
+                                "nombre": "APIPA",
+                                "categoria_nucleo_urbano": {
+                                    "opcion_numero": 12,
+                                    "opcion_seleccionada": "Asociación de vivienda"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "fsu_ubicacion_censal": {
+            "ubicacion_censal_conglomerado_no": null,
+            "ubicacion_censal_zona_no": 0,
+            "ubicacion_censal_manzana_no": 0,
+            "ubicacion_censal_frente_manzana_no": null,
+            "ubicacion_censal_vivienda_no": null,
+            "ubicacion_censal_no_hogares": 1,
+            "ubicacion_censal_hogar_no": "1",
+            "ubicacion_censal_informante": {
+                "informante_apellidos_nombres": "ALCCA MOTTOCCANCHI WILYAN",
+                "informante_no_orden": "01"
+            },
+            "ubicacion_censal_direccion_vivienda": {
+                "direccion_vivienda_tipo_via": {
+                    "opcion_numero": 6,
+                    "opcion_seleccionada": "Otro"
+                },
+                "direccion_vivienda_nombre_via": "SECTOR 15",
+                "direccion_vivienda_puerta_no": "SN",
+                "direccion_vivienda_block": "",
+                "direccion_vivienda_piso": "01",
+                "direccion_vivienda_interior": "",
+                "direccion_vivienda_manzana": "J3",
+                "direccion_vivienda_lote": "002",
+                "direccion_vivienda_km": "",
+                "direccion_vivienda_telefono_domicilio": ""
+            }
+        },
+        "fsu_personal_responsable": {
+            "empadronador": {
+                "nombre": " MARISOL ROXANA",
+                "apellido_paterno": " PUMA",
+                "apellido_materno": " CHECA",
+                "dni": "44272610"
+            },
+            "jefe_de_brigada": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "revisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            },
+            "supervisor": {
+                "nombre": null,
+                "apellido_paterno": null,
+                "apellido_materno": null,
+                "dni": null
+            }
+        },
+        "fsu_entrevista_supervision": {
+            "entrevista_supervision_visita": {
+                "empadronador_visitas": {
+                    "primera_visita": {
+                        "primera_visita_fecha": "2023-06-26T05:00:00.000Z",
+                        "primera_visita_resultado": {
+                            "primera_visita_resultado_codigo": 1,
+                            "primera_visita_resultado_valor": "Completa"
+                        }
+                    },
+                    "segunda_visita": {
+                        "segunda_visita_fecha": null,
+                        "segunda_visita_resultado": {
+                            "segunda_visita_resultado_codigo": null,
+                            "segunda_visita_resultado_valor": null
+                        }
+                    },
+                    "tercera_visita": {
+                        "tercera_visita_fecha": null,
+                        "tercera_visita_resultado": {
+                            "tercera_visita_resultado_codigo": null,
+                            "tercera_visita_resultado_valor": null
+                        }
+                    }
+                }
+            },
+            "entrevista_supervision_resultado_final": {
+                "fecha": "2023-06-26T05:00:00.000Z",
+                "resultado": {
+                    "resultado_codigo": 1,
+                    "resultado_valor": "Completa"
+                }
+            }
+        },
+        "fsu_conformidad_empadronamiento": {
+            "conformidad_empadronamiento_reside_permantemente_vivienda": true,
+            "conformidad_empadronamiento_caracteristicas_vivienda": {
+                "caracteristicas_vivienda_numero_pisos": 1,
+                "caracteristicas_vivienda_color_vivienda": "SIN COLOR"
+            },
+            "conformidad_empadronamiento_firma_empadronador": null,
+            "conformidad_empadronamiento_huella_digital_informante": null,
+            "conformidad_empadronamiento_firma_informante": {
+                "firmado": true
+            }
+        },
+        "fsu_caracteristicas_vivienda_preguntas": {
+            "caracteristicas_vivienda_tipo_vivienda": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Casa independiente"
+            },
+            "caracteristicas_vivienda_su_vivienda_es": {
+                "opcion_numero": 3,
+                "opcion_seleccionada": "Propia, totalmente pagada"
+            },
+            "caracteristicas_vivienda_material_paredes_exteriores": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Ladrillo o bloque de cemento"
+            },
+            "caracteristicas_vivienda_material_techos": {
+                "opcion_numero": 4,
+                "opcion_seleccionada": "Planchas de calamina, fibra de cemento o similares"
+            },
+            "caracteristicas_vivienda_material_pisos": {
+                "opcion_numero": 5,
+                "opcion_seleccionada": "Cemento"
+            },
+            "caracteristicas_vivienda_tipo_alumbrado": {
+                "opcion_numero": 1,
+                "opcion_seleccionada": "Electricidad"
+            },
+            "caracteristicas_vivienda_abastecimiento_agua": {
+                "opcion_numero": 3,
+                "opcion_seleccionada": "Pilón de uso público"
+            },
+            "caracteristicas_vivienda_servicio_higienico_conectado": {
+                "opcion_numero": 3,
+                "opcion_seleccionada": "Pozo séptico"
+            },
+            "caracteristicas_vivienda_horas_llegada_capital_distrital": {
+                "opcion_numero": 0,
+                "opcion_seleccionada": "Menos de 24 horas",
+                "numero_horas": 2
+            },
+            "caracteristicas_vivienda_no_habitaciones": 1,
+            "caracteristicas_vivienda_combustible_utilizado_cocina": {
+                "opcion_numero": 2,
+                "opcion_seleccionada": "Gas"
+            },
+            "caracteristicas_vivienda_su_hogar_tiene": [
+                {
+                    "opcion_numero": 4,
+                    "opcion_seleccionada": "Licuadora"
+                }
+            ],
+            "caracteristicas_vivienda_suministro_agua_luz": {
+                "opcion_seleccionada": "No tiene",
+                "opcion_numero": 3
+            },
+            "caracteristicas_vivienda_no_personas_hogar": {
+                "total": 4,
+                "hombres": 3,
+                "mujeres": 1
+            }
+        },
+        "fsu_caracteristicas_poblacion": [
+            {
+                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
+                "caracteristicas_poblacion_apellido_materno": "MOTTOCCANCHI",
+                "caracteristicas_poblacion_nombres": "WILYAN",
+                "caracteristicas_poblacion_apellidos": "ALCCA MOTTOCCANCHI",
+                "caracteristicas_poblacion_fecha_nac": "1993-09-09T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 29,
+                "caracteristicas_poblacion_meses": 9,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "47973132",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Jefe"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Secundaria",
+                        "ultimo_anio_aprobado": "5"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Trabajador independiente"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 9,
+                        "opcion_seleccionada": "Otros"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "CHALLCO",
+                "caracteristicas_poblacion_apellido_materno": "ACHINQUIPA",
+                "caracteristicas_poblacion_nombres": "ISKRA PILAR",
+                "caracteristicas_poblacion_apellidos": "CHALLCO ACHINQUIPA",
+                "caracteristicas_poblacion_fecha_nac": "1991-12-01T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 31,
+                "caracteristicas_poblacion_meses": 6,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "47378080",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Cónyuge"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Femenino",
+                        "gestante": false
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Conviviente"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 5,
+                        "opcion_seleccionada": "Superior no universitaria",
+                        "ultimo_anio_aprobado": "3"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 7,
+                        "opcion_seleccionada": "Dedicado a los quehaceres del hogar"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
+                "caracteristicas_poblacion_apellido_materno": "CHALLCO",
+                "caracteristicas_poblacion_nombres": "EDISSON JOSUE",
+                "caracteristicas_poblacion_apellidos": "ALCCA CHALLCO",
+                "caracteristicas_poblacion_fecha_nac": "2016-03-09T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 7,
+                "caracteristicas_poblacion_meses": 3,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "81524606",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 4,
+                        "opcion_seleccionada": "Castellano"
+                    },
+                    "preguntas_sabe_leer_escribir": true,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Primaria",
+                        "ultimo_anio_aprobado": "1"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 8,
+                        "opcion_seleccionada": "Estudiante"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
+                    "preguntas_beneficiario_programa": []
+                }
+            },
+            {
+                "caracteristicas_poblacion_apellido_paterno": "ALCCA",
+                "caracteristicas_poblacion_apellido_materno": "CHALLCO",
+                "caracteristicas_poblacion_nombres": "CRISTOPER XANDER",
+                "caracteristicas_poblacion_apellidos": "ALCCA CHALLCO",
+                "caracteristicas_poblacion_fecha_nac": "2018-12-26T05:00:00.000Z",
+                "caracteristicas_poblacion_edad": 4,
+                "caracteristicas_poblacion_meses": 6,
+                "caracteristicas_poblacion_tipo_documento": {
+                    "opcion_numero": 1,
+                    "opcion_seleccionada": "DNI"
+                },
+                "caracteristicas_poblacion_numero_documento": "91115329",
+                "caracteristicas_poblacion_preguntas": {
+                    "preguntas_parentesco_jefe_hogar": {
+                        "opcion_numero": 3,
+                        "opcion_seleccionada": "Hijo/a"
+                    },
+                    "preguntas_nucleo_familiar_no": "1",
+                    "preguntas_sexo": {
+                        "sexo": "Masculino"
+                    },
+                    "preguntas_estado_civil": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_seguro_salud": [
+                        {
+                            "opcion_numero": 4,
+                            "opcion_seleccionada": "Sis"
+                        }
+                    ],
+                    "preguntas_idioma_niniez": {
+                        "opcion_numero": 1,
+                        "opcion_seleccionada": "Quechua"
+                    },
+                    "preguntas_sabe_leer_escribir": false,
+                    "preguntas_nivel_educativo": {
+                        "opcion_numero": 2,
+                        "opcion_seleccionada": "Inicial",
+                        "ultimo_anio_aprobado": "0"
+                    },
+                    "preguntas_ocupacion_ultimo_mes": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_sector": {
+                        "opcion_numero": 0,
+                        "opcion_seleccionada": "No aplica"
+                    },
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             }
@@ -2133,7 +2572,7 @@
             "ubicacion_censal_frente_manzana_no": null,
             "ubicacion_censal_vivienda_no": null,
             "ubicacion_censal_no_hogares": 4,
-            "ubicacion_censal_hogar_no": "2/4",
+            "ubicacion_censal_hogar_no": "2",
             "ubicacion_censal_informante": {
                 "informante_apellidos_nombres": "HERRERA ZAPANA YOLCINA CLARITA",
                 "informante_no_orden": "02"
@@ -2280,9 +2719,8 @@
                 "mujeres": 2
             }
         },
-        "caracteristicas_poblacion": [
+        "fsu_caracteristicas_poblacion": [
             {
-                "caracteristicas_poblacion_numero_orden": " 1",
                 "caracteristicas_poblacion_apellido_paterno": "ZAPANA",
                 "caracteristicas_poblacion_apellido_materno": "VILCA",
                 "caracteristicas_poblacion_nombres": "MAIKOL GERMAN",
@@ -2314,7 +2752,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -2332,12 +2770,11 @@
                         "opcion_numero": 9,
                         "opcion_seleccionada": "Otros"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 2",
                 "caracteristicas_poblacion_apellido_paterno": "HERRERA",
                 "caracteristicas_poblacion_apellido_materno": "ZAPANA",
                 "caracteristicas_poblacion_nombres": "YOLCINA CLARITA",
@@ -2370,7 +2807,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 4,
                         "opcion_seleccionada": "Castellano"
                     },
@@ -2388,12 +2825,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 3",
                 "caracteristicas_poblacion_apellido_paterno": "ZAPANA",
                 "caracteristicas_poblacion_apellido_materno": "HERRERA",
                 "caracteristicas_poblacion_nombres": "DYLAN GAEL",
@@ -2425,7 +2861,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
@@ -2442,12 +2878,11 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             },
             {
-                "caracteristicas_poblacion_numero_orden": " 4",
                 "caracteristicas_poblacion_apellido_paterno": "VASQUEZ",
                 "caracteristicas_poblacion_apellido_materno": "HERRERA",
                 "caracteristicas_poblacion_nombres": "BRITTANY ALEXANDRA",
@@ -2480,7 +2915,7 @@
                             "opcion_seleccionada": "Sis"
                         }
                     ],
-                    "preguntas_idioma_niñez": {
+                    "preguntas_idioma_niniez": {
                         "opcion_numero": 2,
                         "opcion_seleccionada": "Aymara"
                     },
@@ -2498,470 +2933,7 @@
                         "opcion_numero": 0,
                         "opcion_seleccionada": "No aplica"
                     },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            }
-        ]
-    },
-    {
-        "fsu_no_fsu": "R20724324",
-        "fsu_solicitud_s100": "06797627",
-        "fsu_ubicacion_geografica": {
-            "departamento": {
-                "nombre": "AREQUIPA",
-                "codigo_ubigeo": "04",
-                "provincia": {
-                    "nombre": "AREQUIPA",
-                    "codigo_ubigeo": "01",
-                    "distrito": {
-                        "nombre": "CERRO COLORADO",
-                        "codigo_ubigeo": "04",
-                        "centro_poblado": {
-                            "nombre": "LA LIBERTAD",
-                            "codigo_ubigeo": "0001",
-                            "categoria": "04",
-                            "nucleo_urbano": {
-                                "nombre": "CERRITO LOS ALVAREZ",
-                                "categoria_nucleo_urbano": {
-                                    "opcion_numero": 12,
-                                    "opcion_seleccionada": "Asociación de vivienda"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "fsu_ubicacion_censal": {
-            "ubicacion_censal_conglomerado_no": null,
-            "ubicacion_censal_zona_no": 0,
-            "ubicacion_censal_manzana_no": 0,
-            "ubicacion_censal_frente_manzana_no": null,
-            "ubicacion_censal_vivienda_no": null,
-            "ubicacion_censal_no_hogares": 1,
-            "ubicacion_censal_hogar_no": "1/1",
-            "ubicacion_censal_informante": {
-                "informante_apellidos_nombres": "VILLALOBOS GALLEGOS RUTH GRISELDA",
-                "informante_no_orden": "02"
-            },
-            "ubicacion_censal_direccion_vivienda": {
-                "direccion_vivienda_tipo_via": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "Avenida"
-                },
-                "direccion_vivienda_nombre_via": "CHACHANI",
-                "direccion_vivienda_puerta_no": "0318",
-                "direccion_vivienda_block": "",
-                "direccion_vivienda_piso": "01",
-                "direccion_vivienda_interior": "",
-                "direccion_vivienda_manzana": "",
-                "direccion_vivienda_lote": "",
-                "direccion_vivienda_km": "",
-                "direccion_vivienda_telefono_domicilio": ""
-            }
-        },
-        "fsu_personal_responsable": {
-            "empadronador": {
-                "nombre": " ROLANDO CARLOS",
-                "apellido_paterno": " ALVAREZ",
-                "apellido_materno": " ROQUE",
-                "dni": "71407278"
-            },
-            "jefe_de_brigada": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            },
-            "revisor": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            },
-            "supervisor": {
-                "nombre": null,
-                "apellido_paterno": null,
-                "apellido_materno": null,
-                "dni": null
-            }
-        },
-        "fsu_entrevista_supervision": {
-            "entrevista_supervision_visita": {
-                "empadronador_visitas": {
-                    "primera_visita": {
-                        "primera_visita_fecha": "2023-06-26T05:00:00.000Z",
-                        "primera_visita_resultado": {
-                            "primera_visita_resultado_codigo": 1,
-                            "primera_visita_resultado_valor": "Completa"
-                        }
-                    },
-                    "segunda_visita": {
-                        "segunda_visita_fecha": null,
-                        "segunda_visita_resultado": {
-                            "segunda_visita_resultado_codigo": null,
-                            "segunda_visita_resultado_valor": null
-                        }
-                    },
-                    "tercera_visita": {
-                        "tercera_visita_fecha": null,
-                        "tercera_visita_resultado": {
-                            "tercera_visita_resultado_codigo": null,
-                            "tercera_visita_resultado_valor": null
-                        }
-                    }
-                }
-            },
-            "entrevista_supervision_resultado_final": {
-                "fecha": "2023-06-26T05:00:00.000Z",
-                "resultado": {
-                    "resultado_codigo": 1,
-                    "resultado_valor": "Completa"
-                }
-            }
-        },
-        "fsu_conformidad_empadronamiento": {
-            "conformidad_empadronamiento_reside_permantemente_vivienda": true,
-            "conformidad_empadronamiento_caracteristicas_vivienda": {
-                "caracteristicas_vivienda_numero_pisos": 1,
-                "caracteristicas_vivienda_color_vivienda": "SIN COLOR"
-            },
-            "conformidad_empadronamiento_firma_empadronador": null,
-            "conformidad_empadronamiento_huella_digital_informante": null,
-            "conformidad_empadronamiento_firma_informante": {
-                "firmado": true
-            }
-        },
-        "fsu_caracteristicas_vivienda_preguntas": {
-            "caracteristicas_vivienda_tipo_vivienda": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Casa independiente"
-            },
-            "caracteristicas_vivienda_su_vivienda_es": {
-                "opcion_numero": 6,
-                "opcion_seleccionada": "Cedida por otro hogar o institución"
-            },
-            "caracteristicas_vivienda_material_paredes_exteriores": {
-                "opcion_numero": 6,
-                "opcion_seleccionada": "Madera"
-            },
-            "caracteristicas_vivienda_material_techos": {
-                "opcion_numero": 4,
-                "opcion_seleccionada": "Planchas de calamina, fibra de cemento o similares"
-            },
-            "caracteristicas_vivienda_material_pisos": {
-                "opcion_numero": 5,
-                "opcion_seleccionada": "Cemento"
-            },
-            "caracteristicas_vivienda_tipo_alumbrado": {
-                "opcion_numero": 1,
-                "opcion_seleccionada": "Electricidad"
-            },
-            "caracteristicas_vivienda_abastecimiento_agua": {
-                "opcion_numero": 2,
-                "opcion_seleccionada": "Red pública fuera de la vivienda pero dentro del edificio"
-            },
-            "caracteristicas_vivienda_servicio_higienico_conectado": {
-                "opcion_numero": 2,
-                "opcion_seleccionada": "Red pública fuera de la vivienda pero dentro del edificio"
-            },
-            "caracteristicas_vivienda_horas_llegada_capital_distrital": {
-                "opcion_numero": 0,
-                "opcion_seleccionada": "Menos de 24 horas",
-                "numero_horas": 0
-            },
-            "caracteristicas_vivienda_no_habitaciones": 2,
-            "caracteristicas_vivienda_combustible_utilizado_cocina": {
-                "opcion_numero": 2,
-                "opcion_seleccionada": "Gas"
-            },
-            "caracteristicas_vivienda_su_hogar_tiene": [
-                {
-                    "opcion_numero": 14,
-                    "opcion_seleccionada": "Celular"
-                }
-            ],
-            "caracteristicas_vivienda_suministro_agua_luz": {
-                "opcion_seleccionada": "No tiene",
-                "opcion_numero": 3
-            },
-            "caracteristicas_vivienda_no_personas_hogar": {
-                "total": 5,
-                "hombres": 3,
-                "mujeres": 2
-            }
-        },
-        "caracteristicas_poblacion": [
-            {
-                "caracteristicas_poblacion_numero_orden": " 1",
-                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
-                "caracteristicas_poblacion_apellido_materno": "VARGAS",
-                "caracteristicas_poblacion_nombres": "MARCO ANTONIO",
-                "caracteristicas_poblacion_apellidos": "DAVILA VARGAS",
-                "caracteristicas_poblacion_fecha_nac": "1982-03-03T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 41,
-                "caracteristicas_poblacion_meses": 3,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "42223548",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Jefe"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Casado/a"
-                    },
-                    "preguntas_seguro_salud": [],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Castellano"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Secundaria",
-                        "ultimo_anio_aprobado": "5"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Trabajador independiente"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 8,
-                        "opcion_seleccionada": "Servicios"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 2",
-                "caracteristicas_poblacion_apellido_paterno": "VILLALOBOS",
-                "caracteristicas_poblacion_apellido_materno": "GALLEGOS",
-                "caracteristicas_poblacion_nombres": "RUTH GRISELDA",
-                "caracteristicas_poblacion_apellidos": "VILLALOBOS GALLEGOS",
-                "caracteristicas_poblacion_fecha_nac": "1979-08-12T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 43,
-                "caracteristicas_poblacion_meses": 10,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "40331486",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Cónyuge"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Femenino",
-                        "gestante": false
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Casado/a"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Quechua"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Secundaria",
-                        "ultimo_anio_aprobado": "5"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 7,
-                        "opcion_seleccionada": "Dedicado a los quehaceres del hogar"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 3",
-                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
-                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
-                "caracteristicas_poblacion_nombres": "PIERO ALEXANDER",
-                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
-                "caracteristicas_poblacion_fecha_nac": "2003-11-10T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 19,
-                "caracteristicas_poblacion_meses": 7,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "72140023",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Hijo/a"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Soltero/a"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Castellano"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Secundaria",
-                        "ultimo_anio_aprobado": "5"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 6,
-                        "opcion_seleccionada": "Desempleado"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 4",
-                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
-                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
-                "caracteristicas_poblacion_nombres": "EDUARDO JOSE",
-                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
-                "caracteristicas_poblacion_fecha_nac": "2005-06-28T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 17,
-                "caracteristicas_poblacion_meses": 11,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "72140021",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Hijo/a"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Masculino"
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Soltero/a"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 1,
-                        "opcion_seleccionada": "Quechua"
-                    },
-                    "preguntas_sabe_leer_escribir": true,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Secundaria",
-                        "ultimo_anio_aprobado": "5"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 8,
-                        "opcion_seleccionada": "Estudiante"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
-                    "preguntas_beneficiario_programa": []
-                }
-            },
-            {
-                "caracteristicas_poblacion_numero_orden": " 5",
-                "caracteristicas_poblacion_apellido_paterno": "DAVILA",
-                "caracteristicas_poblacion_apellido_materno": "VILLALOBOS",
-                "caracteristicas_poblacion_nombres": "BRIANNA HANNA",
-                "caracteristicas_poblacion_apellidos": "DAVILA VILLALOBOS",
-                "caracteristicas_poblacion_fecha_nac": "2018-05-31T05:00:00.000Z",
-                "caracteristicas_poblacion_edad": 5,
-                "caracteristicas_poblacion_meses": 0,
-                "caracteristicas_poblacion_tipo_documento": {
-                    "opcion_numero": 1,
-                    "opcion_seleccionada": "DNI"
-                },
-                "caracteristicas_poblacion_numero_documento": "90800570",
-                "caracteristicas_poblacion_preguntas": {
-                    "preguntas_parentesco_jefe_hogar": {
-                        "opcion_numero": 3,
-                        "opcion_seleccionada": "Hijo/a"
-                    },
-                    "preguntas_nucleo_familiar_no": "1",
-                    "preguntas_sexo": {
-                        "sexo": "Femenino",
-                        "gestante": false
-                    },
-                    "preguntas_estado_civil": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_seguro_salud": [
-                        {
-                            "opcion_numero": 4,
-                            "opcion_seleccionada": "Sis"
-                        }
-                    ],
-                    "preguntas_idioma_niñez": {
-                        "opcion_numero": 4,
-                        "opcion_seleccionada": "Castellano"
-                    },
-                    "preguntas_sabe_leer_escribir": false,
-                    "preguntas_nivel_educativo": {
-                        "opcion_numero": 2,
-                        "opcion_seleccionada": "Inicial",
-                        "ultimo_anio_aprobado": "0"
-                    },
-                    "preguntas_ocupacion_ultimo_mes": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_sector": {
-                        "opcion_numero": 0,
-                        "opcion_seleccionada": "No aplica"
-                    },
-                    "preguntas_tipo_discapacidad": [],
+                    "preguntas_discapacidades": [],
                     "preguntas_beneficiario_programa": []
                 }
             }

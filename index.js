@@ -466,7 +466,7 @@ function read_fsu(data) {
                 'mujeres': parseInt(total_mujeres),
             }
         },
-        'caracteristicas_poblacion': []
+        'fsu_caracteristicas_poblacion': []
 
     }
     // fs.writeFile("output.json", JSON.stringify(formfsu), (err) => {
@@ -476,7 +476,7 @@ function read_fsu(data) {
     //         console.log('Content has been written to the file.');
     //     }
     // });
-    formfsu['caracteristicas_poblacion'] = []
+    formfsu['fsu_caracteristicas_poblacion'] = []
     for (let i = 0; i < nro_total_personas; i++) {
         // n° fsu
         let numero_fsu_repeat = data.slice(position, position += 9)
@@ -519,8 +519,7 @@ function read_fsu(data) {
         let beneficiario_programa = data.slice(position, position += 11)
         position += 1
 
-        formfsu['caracteristicas_poblacion'].push({
-            'caracteristicas_poblacion_numero_orden': numero_orden,
+        formfsu['fsu_caracteristicas_poblacion'].push({
             'caracteristicas_poblacion_apellido_paterno': apellido_paterno,
             'caracteristicas_poblacion_apellido_materno': apellido_materno,
             'caracteristicas_poblacion_nombres': nombres,
@@ -543,7 +542,7 @@ function read_fsu(data) {
                     opcion_seleccionada: ESTADO_CIVIL[parseInt(estado_civil)]
                 },
                 'preguntas_seguro_salud': getArraySeguroDiscapacidadPrograma(tipo_seguro_salud, SEGURO_SALUD),
-                'preguntas_idioma_niñez': {
+                'preguntas_idioma_niniez': {
                     opcion_numero: parseInt(idioma_niñez),
                     opcion_seleccionada: IDIOMA_NIÑEZ[parseInt(idioma_niñez)]
                 },
@@ -561,7 +560,7 @@ function read_fsu(data) {
                     opcion_numero: parseInt(sector),
                     opcion_seleccionada: SECTOR[parseInt(sector)]
                 },
-                'preguntas_tipo_discapacidad': getArraySeguroDiscapacidadPrograma(tipo_discapacidad, TIPO_DISCAPACIDAD),
+                'preguntas_discapacidades': getArraySeguroDiscapacidadPrograma(tipo_discapacidad, TIPO_DISCAPACIDAD),
                 'preguntas_beneficiario_programa': getArrayBienes(beneficiario_programa, PROGRAMA_SOCIAL_BENEFICIARIO)
             },
 
